@@ -8,7 +8,7 @@ In this repository, I will be committing files for various tasks completed durin
 
 1. **#NumberGame**  
    ✅ **Completed on**: 22/12/2024  
-   Description: A fun number game that challenges users with interactive gameplay logic. 
+   Description: A fun number game that challenges users with interactive gameplay logic.
 
    **Features:**
    - Random number generation for gameplay.
@@ -17,7 +17,7 @@ In this repository, I will be committing files for various tasks completed durin
 
 2. **#StudentGradeCalculator**  
    ✅ **Completed on**: 24/12/2024  
-   Description: A Java program that calculates student grades based on their marks and generates results. 
+   Description: A Java program that calculates student grades based on their marks and generates results.
 
    **Features:**
    - Input marks for multiple subjects.
@@ -26,7 +26,7 @@ In this repository, I will be committing files for various tasks completed durin
 
 3. **#ATMMachine**  
    ✅ **Completed on**: 27/12/2024  
-   Description: A simulation of an ATM machine with features like balance inquiry, withdrawal, and deposit. 
+   Description: A simulation of an ATM machine with features like balance inquiry, withdrawal, and deposit.
 
    **Features:**
    - Secure PIN authentication.
@@ -35,12 +35,21 @@ In this repository, I will be committing files for various tasks completed durin
 
 4. **#QuizApplication**  
    ✅ **Completed on**: 10/01/2025  
-   Description: A console-based quiz app with a timer, score calculation, and summary of results. 
+   Description: A console-based quiz app with a timer, score calculation, and summary of results.
 
    **Features:**
    - Multiple-choice questions with a time limit.
    - Dynamic score calculation.
    - Final summary of correct/incorrect answers.
+
+5. **#StudentCourseManagementSystem**  
+   ✅ **Completed on**: 11/01/2025  
+   Description: A Java application to manage student registrations and course enrollments.
+
+   **Features:**
+   - Add and manage courses with details like course code, title, and capacity.
+   - Register and drop students from courses.
+   - Real-time capacity and registration tracking.
 
 ---
 
@@ -55,7 +64,7 @@ Each task is organized into its respective folder, containing:
 
 ## 🛠 Technologies Used
 - **Language**: Java
-- **IDE**:VS Code 
+- **IDE**: VS Code 
 - **Version Control**: Git
 
 ## 🚀 About CodSoft Internship
@@ -67,5 +76,6 @@ Feel free to explore the code and provide your feedback or suggestions! 😊
 
 ### 📞 Contact Me
 If you have any questions or feedback, feel free to reach out:
-- **LinkedIn**: (https://www.linkedin.com/in/meghraj-dhakal-04a47b284/)(#)
+- **LinkedIn**: [https://www.linkedin.com/in/meghraj-dhakal-04a47b284/](https://www.linkedin.com/in/meghraj-dhakal-04a47b284/)
 - **Email**: meghrajdhakal966@gmail.com
+
